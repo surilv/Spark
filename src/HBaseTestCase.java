@@ -32,7 +32,7 @@ public class HBaseTestCase {
 	    	String columnFamily="cf";
 	    	
 	    	try {  
-	    		System.out.println("Hello Word");
+	    		System.out.println("Hello Word!!!");
 	    		HBaseTestCase.creat(tablename, columnFamily);
 	    		//cfg.set("hbase.zookeeper.quorum", "192.168.19.131");
 	    		//cfg.set("hbase.regionserver.ipc.address","192.168.19.131");
