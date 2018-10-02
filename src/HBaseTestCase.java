@@ -4,7 +4,7 @@ import org.apache.hadoop.hbase.HColumnDescriptor;
 import org.apache.hadoop.hbase.HTableDescriptor;
 import org.apache.hadoop.hbase.client.HBaseAdmin;
 
-
+//2018.10.02 by Suri
 public class HBaseTestCase {
 
 	static Configuration cfg=HBaseConfiguration.create();
